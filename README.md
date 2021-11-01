@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Larryinx
+- 👋 Hi, I’m @Larryinx. You can call me Larry
 - 👀 I’m interested in computer vision and other marvelous things
-- 🌱 I’m currently learning computer science and it is my major
-- 💞️ I’m looking forward to collaborate
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking forward to a girlfriend 🙈🙈
 - 📫 How to reach me ------ email ------ larry_yinx@163.com
 
 <!---
